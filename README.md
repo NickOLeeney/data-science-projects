@@ -4,7 +4,10 @@ In this page I'm going to show you some data science project I made, if you are 
 In this project I will use some of the most famous Python's libraries for data visualization such as Pandas, Matplotlib and Seaborn. The aim is to do some exploratory data analysis from real world dataset taken from the web.
 In the first project, there will be examinated some 911 calls made from Montgomery County, PA, data were taken from Kaggle.
 In the latest, I used data taken from Stooq, an online free repository of financial data, in order to investigate stock prices of some of the most important US banks during the financial crysis started in 2007-2008.
-![]() <img src="images/dataVisualizationScatter.png"  width="400">
+
+<p align="center">
+    <img src="images/dataVisualizationScatter.png"  width="400"
+p>
 
 
 
