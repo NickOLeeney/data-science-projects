@@ -1,4 +1,3 @@
-# Data Science Project
 A repo where to store my data science projects
 
 ## [Data Visualization Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/DataVisualizationProject.ipynb)
