@@ -1,5 +1,4 @@
-## List of main project
-In this page I'm going to show you some data science project I made, you can click on them if you want to see the gitHub repository and the data involved. 
+In this page I'm going to show you some data science project I made, if you are interested you can click on them and see the GitHub repository where you can find the code and the data involved. 
 
 ## [Data Visualization Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/DataVisualizationProject.ipynb)
 In this project I will use some of the most famous Python's libraries for data visualization such as Pandas, Matplotlib and Seaborn. The aim is to do some exploratory data analysis from real world dataset taken from the web.
