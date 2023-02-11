@@ -1,4 +1,4 @@
-A repo where to store my data science projects
+# List of main project
 
 ## [Data Visualization Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/DataVisualizationProject.ipynb)
 In this project I will use some of the most famous Python's libraries for data visualization such as Pandas, Matplotlib and Seaborn. The aim is to do some exploratory data analysis from real world dataset taken from the web.
