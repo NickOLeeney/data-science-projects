@@ -1,2 +1,5 @@
 # Build settings
 theme: minima
+title: My blog
+description: My very nice blog
+author: "Jorge Sanz"
