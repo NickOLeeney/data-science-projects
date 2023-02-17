@@ -1,5 +1,9 @@
 In this page I'm going to show you some data science project I made using Google Colab, if you are interested you can click on them and see the GitHub repository where you can find the code and the data involved. 
 
+## [Lending Club Loan Data Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/Lending_ClubLoanDataProject_NeuralNetwork.ipynb)
+For this project I will be using a set based on the LendingClub DataSet [obtained from Kaggle](https://www.kaggle.com/wordsforthewise/lending-club).
+LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.
+
 ## [House Sales in King County Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/kerasRegressionProject.ipynb)
 For this project I will use a dataset taken from Kaggle to predict house pricing using regression by means of a neural network. This dataset contains house sale prices for King County, Washington, it includes homes sold between May 2014 and May 2015. The deep neural network was imported from Keras using TensorFlow.
 
