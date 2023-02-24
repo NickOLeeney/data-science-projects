@@ -15,6 +15,11 @@ In this project I will use some of the most famous Python's libraries for data v
 In the first project, there will be examinated some 911 calls made from Montgomery County, PA, data were taken from Kaggle.
 In the latest, I used data taken from Stooq, an online free repository of financial data, in order to investigate stock prices of some of the most important US banks during the financial crysis started in 2007-2008.
 
+## [Wine Quality Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/WineQualityProject.ipynb)
+This dataset is related to red variants of the Portuguese "Vinho Verde" wine. The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
+The goal of this project is to establish wheter a wine is 'good' (i.e. has quality > 5) or 'bad', using some of the most famous classification ML algorithm.
+
+
 ## [Iris Dataset Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/IrisFlowerDatasetProject_Support_Vector_Machines.ipynb)
 For this project, I will be using the famous Iris flower data set.
 The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in the 1936 as an example of discriminant analysis.
