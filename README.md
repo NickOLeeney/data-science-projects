@@ -1,5 +1,11 @@
-![](https://raw.githubusercontent.com/NickOLeeney/data-science-projects/main/images/SMSSpamProject.png)
-In this page I'm going to show you some data science project I made using Google Colab, if you are interested you can click on them and see the GitHub repository where you can find the code and the data involved. 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>In this page I'm going to show you some data science project I made using Google Colab, if you are interested you can click on them and see the GitHub repository where you can find the code and the data involved. 
 
 ## [Lending Club Loan Data Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/Lending_ClubLoanDataProject_NeuralNetwork.ipynb)
 For this project I will be using a set based on the LendingClub DataSet [obtained from Kaggle](https://www.kaggle.com/wordsforthewise/lending-club).
@@ -32,3 +38,6 @@ There will be used lending data from 2007-2010, trying to classify and predict w
  
 ## Other Exercises
 The previous project all stands to real world data, these project are based on artificial data and therefore are not very meaningfull, there are just exercises used to practice my skills with some of the most popular and used machine learning algorithm, such as: [Linear Regression](https://github.com/NickOLeeney/data-science-projects/blob/main/LinearRegressionProject.ipynb), [Logistic Regression](https://github.com/NickOLeeney/data-science-projects/blob/main/LogisticRegressionProject.ipynb), [K Nearest Neighbour](https://github.com/NickOLeeney/data-science-projects/blob/main/KNearestNeighborsProject.ipynb), [K Means Clustering](https://github.com/NickOLeeney/data-science-projects/blob/main/KMeansClusteringProject.ipynb) and so on. 
+</td>
+ </tr>
+</table>
