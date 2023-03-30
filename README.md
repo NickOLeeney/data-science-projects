@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/NickOLeeney/data-science-projects/main/images/SMSSpamProject.png)
 In this page I'm going to show you some data science project I made using Google Colab, if you are interested you can click on them and see the GitHub repository where you can find the code and the data involved. 
 
 ## [Lending Club Loan Data Project - Overview](https://github.com/NickOLeeney/data-science-projects/blob/main/Lending_ClubLoanDataProject_NeuralNetwork.ipynb)
